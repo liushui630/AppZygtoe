@@ -1,0 +1,3 @@
+rootProject.name = "AppZygote"
+include ':app'
+include ':architecture'
